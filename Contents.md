@@ -1,1 +1,33 @@
 [[Gamemaster's Journal]]
+
+## GURPS Material
+### Basic Rules
+[[GURPS Basic Set- Characters.pdf|Basic Set: Characters]]
+[[GURPS Basic Set - Campaigns.pdf|Basic Set: Campaigns]]
+### Dungeon Fantasy RPG
+[[DF_Adventurers.pdf|Adventurers]]
+[[DF_Exploits.pdf|Exploits]]
+[[DF_Monsters.pdf|Monsters]]
+[[DF_Spells.pdf|Spells]]
+[[DF_Dungeon.pdf|Dungeon: I Smell a Rat]]
+[[DFRPG_Maps.pdf|Maps]]
+- [[DFRPG_Maps_tiled.pdf|Tiled Maps]]
+### Supplements
+[[How_to_Be_a_GURPS_GM.pdf|How to be a GURPS GM]]
+[[GURPS_Banestorm.pdf|Banestorm]]
+[[CampaignPlanning.pdf|Campaign Planning]]
+[[GURPS_City_Stats.pdf|City Stats]]
+[[GURPS_Classic_Celtic_Myth.pdf|Celtic Myth]]
+[[GURPS_Classic_Egypt.pdf|Egypt]]
+[[GURPS_Classic_Imperial_Rome.pdf|Imperial_Rome]]
+[[GURPS_Classic_Middle_Ages_1_(Second_Edition).pdf|Middle Ages]]
+[[GURPS_Classic_Vikings_(Second_Edition).pdf|Vikings]]
+[[GURPS_Fantasy.pdf|Fantasy]]
+[[GURPS_Fourth_Edition_Low-Tech.pdf|Low Tech]]
+[[GURPS_Locations_St._George's_Cathedral.pdf|Locations: St. George's Cathedral]]
+[[GURPS_Locations_Worminghall.pdf|Locations: Worminghall]]
+[[GURPS_Magic.pdf|Magic]]
+[[GURPS_Magic_Spell_Charts.pdf|Magic Spell Charts]]
+[[GURPS_Martial_Arts.pdf|Martial Arts]]
+[[GURPS_Thaumatology.pdf|Thaumatology]]
+[[historical_folks_4e.pdf|Historical Folks]]
