@@ -8,6 +8,8 @@ Setting up the environment for developing and managing a campaign milieu. This i
 ### \_inbox
 
 This is the initial landing zone for all input into the vault. From here, decide and process the file, note, whatever into more developed parts of the milieu source material. Tags for items in editing or playtesting should be tagged as well as placed in the correct folder.
+### 0 - Old Vault Contents
+This is a stash of old content from an earlier vault. It will be mined for ideas, etc., and gradually deprecated.
 ### 1 - Notes
 This is the high-level folder structure for the written material for the milieu.
 #### 1.1 - Editing
@@ -28,5 +30,6 @@ Documents in formats other than Obsidian MD Markdown notes.
 PDF files, including reference materials such as the core rules, commercial modules, and other supplements go here.
 ##### 2.1.2 Non-PDF
 Documents in formats other than PDF that are not Markdown notes go here.
-##### 2.3 - Graphics
+##### 2.2 - Graphics
 Art, photos, maps, etc. are stored here.
+##### 2.3 - Audio_Video
