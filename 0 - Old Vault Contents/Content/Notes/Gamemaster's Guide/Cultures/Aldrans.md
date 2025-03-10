@@ -1,0 +1,3 @@
+Aldrans began exploring and settling in parts of the continent three centuries before the grand “expedition” (invasion) by Haregald landed on the shores of what is now the Kingdom of Ardain. Haregald’s forces quickly routed the opposing forces of Kialti and the few rival Aldran lords who his landing, and it was only a matter of a few months before Haregald was proclaimed a king.
+
+[[Human cultures]]

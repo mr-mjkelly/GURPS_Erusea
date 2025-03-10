@@ -1,0 +1,16 @@
+Some ideas
+- Human civilization is not at its best. There is evidence, in the form of artifacts and ruins, some mythology and legend, and odd bits of historical lore, of greater ages, but they are long gone.
+- I want this world to be a bit dark, and on the gritty side.
+- Magic is not commonplace, but it can be powerful, and can play a significant role in events. There are few truly powerful individuals, particularly among mortals. Much magic is practiced by groups, such as druids, bards, clergy, mystics and darker occult orders.
+- Most of humankind lives in early medieval conditions, so picture a lot of mail armor, shields, and light cavalry at best. Armor will rarely be shining, but swords, axes, and spears are keen.
+- There are some exceptional places, even realms. Just as the Eastern part of the Roman Empire and realms to the south and east were a tad better off and more cosmopolitan than much of western and northern Europe.
+- Dragons play a role. They are creatures of great might and clearly of some magical nature. It is not clear whether they have gender, or how they reproduce other than that they come from eggs that, presumably, they lay. But...maybe not.
+- Humanity has rivals, and some of these rivals have taken advantage of the decline of human power in much of the world.
+	- I am not yet decided on who these rivals may be, but I am picturing giants as the top tier, along with trolls. Duergar would be among the more organized.
+	- There may also be elves, who would be sort of like the Sidhe, or perhaps a bit like Tolkien's wood elves as portrayed in [[The Hobbit]]. I am picturing the Sidhe as a more sophisticated "light" or "fair folk" of great power within their own domains, and the wood elves as more rustic and natural.
+- Humans don't have nearly as much magical lore as some other races. Much has been lost in the ravages of time and the fall of greater realms. The remaining wizards, descendants of elder orders, are very few and not as skilled as those before. Sorcerers are a bit more numerous, but somewhat more primitive and wild than the ancient wizards, and often dangerously erratic in their use of magic.
+	- Keep in mind the idea of magic having some consequences and risks.
+- The "superdungeon" idea is a trope I am considering. One idea is that there is an ancient long-running "road" underground that is essentially a series of caverns, waterways, dungeon sites, etc. discovered, built or improved, and used by dwarves, humans, and other races since long, long before the rise and subsequent fall of a large human civilization/empire.
+	- This is really not a single integrated adventure location or setting; rather it is a "wilderness" setting underground and could easily include hostile and friendly locations and inhabitants as well as dangerous or beneficial natural features and resources.
+	- Many aboveground locations of note have connections to this subterranean realm, and some people think of it as the supernatural underworld, or at least adjacent to such realms.
+	- Is this the principle realm of the [[Duergar|duergar]]?

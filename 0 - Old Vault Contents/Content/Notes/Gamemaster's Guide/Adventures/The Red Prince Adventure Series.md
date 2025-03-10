@@ -1,0 +1,12 @@
+
+# Background for Players
+
+For many years, the western realms of men have been receding south and west, and the wild folk (orcs, ogres, trolls, etc.) have been multiplying, growing bolder and more organized, and pressing the northern and eastern borders of the realms. The days of the High King past before the oldest men alive were born, and the days of the great realms of the heroic Danar are legendary. The realms of men are small and isolated, ruled by warlords, chieftains, and petty Kings. The elder races, who were often friends of the Danar and even aided the High King centuries after the last Danaran city tell, look otter their own interests and deal only occasionally with humankind.
+
+In these dark times, the heroes of fireside fable have yielded their place to a new breed of warriors: rangers, mercenaries, rogues seeking treasure and glory, and other brave adventurers. Sometimes led by tribal leaders and captains of mercenary companies, sometimes acting on their own, these new heroes are poised to create legends of their own.
+
+Cual the Red, whom some call "The Red Prince," has called for those willing to serve on a venture to reclaim lands that, according to him, belonged to his lineage and are his by right. Cual has been at odds in the five kingdoms of the north since coming of age. In fact, even as a fosterling his persistent yen for a domain of his own caused strife among his peers — other minor lords, most with titles and estates in their future. King Cobras of Airbag has called him a bandit, and dubbed him "The Rogue Prince" because of his agitation of young warriors and occasional strife with other minor lords. King Ordain of Carnage, his foster father at one time, is more sympathetic and often defends him and his actions, noting that they are rarely unprovoked even if they are somewhat excessive. Some Kialti nobles believe Ordain has funded some of Cual's exploits, and may be helping him with this expedition.
+
+The Red Prince has set up a camp near one of the fortified towns along the Salech River and has sent out recruiters to post notices of his expedition and to screen potential warriors and other specialists for hire. Those interested in joining the expedition can reach Cual's agents at certain taverns or at booths set up in town commons.
+
+This is also potentially about Cual The Red King (with his son, Conalt as prince.)

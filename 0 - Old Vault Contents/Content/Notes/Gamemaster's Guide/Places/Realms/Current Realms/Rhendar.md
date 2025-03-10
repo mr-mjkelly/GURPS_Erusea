@@ -1,0 +1,7 @@
+The realm of Rhendar once encompassed what men now call Old Rhendar. Rhendar is a dreary and desperate realm. The monarchy is weak, and has been for a few generations. Crops and livestock have declined due in part to a climate change that has effectively shortened the growing season. Poor government and declining infrastructure played a part as well. Malnutrition has lead to declining fertility; the population of Rhendar is aging and declining.
+
+Rhendar is a sort of rainy Carpathian region, although not as starkly mountainous. In fact, the topography might have more in common with Wales or Scotland — hills, lochs, gnarled forests, glens, etc. A large ocean bay with several deep inlets penetrating steep, rocky shores separates Old Rhendar in the north from the southern lands of Rhendar. The routes around the northwest end of the bay have not been guarded or maintained for years, and the grey hills and wooded ravines have a fell reputation.
+
+Rhendar is a living kingdom, although not a very well governed one. The various noble houses are constantly amusing themselves in petty squabbles, and occasionally a sizable battle emerges with knights, soldiers, and peasants from many fiefdoms on one or more sides. Feudal borders are vague impermanent, and the roads are harassed by tax collecting soldiers and brigands, sometimes in the same uniforms. People tend to live in isolated settlements, and those who can stay close to strongholds.
+
+[[Aldran Age Campaign Sourcebook]]

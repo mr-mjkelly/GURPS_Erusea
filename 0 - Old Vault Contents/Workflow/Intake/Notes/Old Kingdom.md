@@ -1,0 +1,7 @@
+- A formidable realm, but long past its former glory. Even that glory paled in comparison to the time when it flourished as the chief [[Mainland Continent]] province of the [[Rhudan]].
+- The realm is not in any particular trouble, but there are many threats to it, or at least portions of it, and to its inhabitants.
+- The royal family and the senior nobility and aristocracy are challenged by rivals (and one another), but at present there is no major conflict.
+- the region of [[Mainland Continent]] in which Old Kingdom is situated is a mostly temperate region, with a stable climate, plentiful precipitation, and four distinct and generally predictable seasons. Terrain ranges from coastal to mountainous inland, most of which is well forested or under cultivation.
+- Old Kingdom covers only part of what was once the dominion of the former [[Rhudan|Rhudan]] province. Much of the outlying lands are now unsettled, ungoverned, and wild, filled with abandoned places and ancient ruins.
+- Some minor realms have developed in these regions, varied in size and sophistication. Bandit lords, petty kings and lords, and other rulers, as well as relatively decent and strong monarchs or other leaders.
+- 
