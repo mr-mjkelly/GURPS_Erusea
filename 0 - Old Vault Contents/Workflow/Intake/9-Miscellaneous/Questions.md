@@ -1,0 +1,32 @@
+## #Question If there are [[Dragons | dragons]], why aren’t all keeps, castles, etc. designed to defend against fire and aerial attack?
+
+I’ve thought about this quite a bit. As I have conceived the world, dragons are very few, somewhat dormant, and remote from civilized areas. This was not always so, but for centuries few, if any, humans or dwarves have even seen a dragon, much less encountered one. Of the few who did, most went looking for trouble. There is a legend that one of those trouble-seeking would-be dragon slayers survived. To become a reclusive hermit. In the past, there were more dragons, and they were more aggressive, or at least more actively flying around, mating, hunting, etc. Many of their fights were amongst their own kind. However, they were once prone to raiding dwarven holdings, attacking giants in their abodes, and generally plaguing the settlements of elves and men. The Ilorians had to deal with dragons when they began settling their part of the world, and many of their strongholds and redoubts were designed with that in mind. But time marches on, dragons quiet down, and men forget. The elves did not forget, but they never built significant fortifications, relying instead on other forms of protection. Dwarves, of course, fortify everything they have against every conceivable threat. Their principal strongholds are quite sufficient protection against dragons. Naturally, those who forget the lessons of history are doomed to repeat them, and the Dark Star approaches.
+
+## #Question Why are there so few spell casters, especially powerful ones?
+
+Magic is actually rare. Magic controlled and used by men, and even elves, is even more rare. Despite the legends of great works of magic in the ancient past, true spell use, along with similar actions by priests and druids, is not commonplace. It never really was. True, there were more great mages among the Ilinarans and their Ilorian descendants, but as the bloodlines of that ancient race mixed with other mortal men, the power became less prevalent and even when it manifested, it seemed diminished. As centuries passed into millennia, the art and knowledge of arcane magic diminished. There are few true wizards; some believe there are none like those of the ancient times before the fall of Erion.
+
+Some cultures, most notably the Aldrans, are not fond of magic. They are particularly suspicious of sorcerers and other “unruly” spell-casters. While some court mages are tolerated, most of the acceptable magic is husbanded and practices by the priests, and they guard their franchise zealously.
+
+## #Question Why no official “true” deities in this campaign?
+
+The gamemaster answer is that I do not want a singularly authoritative set of in-game deities in this milieu. I rarely want them in any milieu, since the differences in spiritual, religious, and philosophical views are so fundamental to characters and to story. I do not intend to have any full deities of the celestial sort manifest in a way that allows them to be attacked like other creatures. I may have some demi-god types, however: terrestrial deities and similar beings who are so manifest in the material realm that they are subject to the physical laws.
+
+One of my thematic elements is the role religion plays in a world with very tangible supernatural events and phenomena. I want to make religion a strong part of the cultures many of which, of course, resemble various ancient, classical, and medieval cultures found in Earth’s history. Regarding history: it is nearly impossible (even in our own modern existence) to separate religious and spiritual belief from philosophy and history, and so all three these elements will interact to mix, meld, and mangle the world in which PCs must live and adventure.
+
+From the perspective of milieu inhabitants, just ask any religious adherent (or antagonist) in any realm and you will learn that there are plenty of deities of all sorts from which to choose. My vision now includes two major religions that are dominating the Danaran, Kialti, and Aldran realms. The ancient worship of the Elanai is the dominant and established religion of the Danarans, Kialti, and to an extent the elves. Other human cultures, such as the Aelsh acknowledge the Elanai in their own druidic beliefs, but their faith is not as refined or formalized as that of the Danarans or even most Kialti. To the south and to an extent over the southern seas the worship of Madras and his immortal champion Karos is strong, and this is the established — indeed, the official — religion of Aldran realms. The Karosian sect of this faith focuses on following the teachings and example of the sacrificial hero Karos. From the relatively young church in Caradan come the paladin orders, who are venturing forth quite actively as the Dark Star approaches, hoping to stave off evil and succor those afflicted by it.
+
+In and around these major religions are various cults and sects. Most are dedicated to minor regional powers, some worship terrestrial beings as deities. Certain races follow dark powers, and sadly this is not unheard of among humans and even the occasional elf or dwarf.
+
+The wise among loremasters and ecclesiasts have advanced some rationales for the seeming inconsistencies in cosmological matters.
+
+The Elanai and other pantheons and deities all exist in some fashion and, at different times, in various places, and for several peoples, have had varied sorts and degrees of influence in the terrestrial realm. Discrepancies among the scholars, clerics, and followers are due to different interpretations and experiences, as well as to the effects of time and distance on the religious information.
+
+It is plausible that the Elanai were among the first celestial powers to reach into the terrestrial world. They may have been more organized and united than other immortals. They also seemed to have had an affinity for certain mortal beings, and a clear antipathy to the immortal, but terrestrial, Titans.
+
+None of the deities are real. All religion is a rationale for power, magic, and explanation of natural and supernatural phenomena.
+
+## #Question What about duergar? And their queen?
+
+[[Aldran Age Campaign Gamemaster's Notebook]]
+[[FRPG Notebook]]

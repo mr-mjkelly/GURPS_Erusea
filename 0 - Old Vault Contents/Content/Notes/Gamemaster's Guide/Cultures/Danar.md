@@ -1,0 +1,1 @@
+Danar are the most ancient humans with significant civilization. They were originally [[The Ilyan Civilization|Ilyan]] colonists and then refugees from fallen [[Erion]] and her sister cities.

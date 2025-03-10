@@ -1,0 +1,11 @@
+Establish the campaign from a focus on the PC perspective. So, plant the party and the first adventure (or adventures). Each PC will know some information about their home region. Distant regional origins will have to be worked out; local, or at least regional ones should be “on the map” of whatever initial regions are drawn and described.
+
+PCs will not tend to have great knowledge of the greater world or its past, historical or prehistorical. They will know some legends (the ancient version of popular culture), their particular heroes and villains, local rulers and leaders, and bits and pieces (some true, some not so much) of the greater matters of the world.
+
+I intend to plant the group in a rural and temperate region without extreme terrain features. Hills, woods, lakes, streams, bogs, meadows, etc. No huge mountains, no ice flows, no volcanoes. Weather happens, but the climate is moderate and has four general seasons. It is agricultural country, but a bit on the wilder side in terms of human and demi-human settlement. The area should be about a fortnight or less from the eastern coast.
+
+Right now, I think that means the eastern marches of Arudan, in the duchy of Aberlun. From this regions it is less than a week’s journey north and east to the lowlands of Ereskadia. To the north and west are the borderlands of what was once part of the Danaran High Kingdom. Over the Bone Mountains to the south and west is Haldrun, and to the south of Haldrun lie the realms of Rhendar and Old Rhendar. To the far south of Arudan is the realm of Caradan. Off the coast of Caradan lies the southern isles, chief among which is Calendia, ruled by princes.
+
+In the grander scope, I need to flesh out my thoughts on the Ilorian realms, those lands inhabited by the Ilinaran people and ruled by the heirs of the kings and queens of Erion, etc. Since these people are the “source” of the most powerful human and mortal magic and lore, as well as the keepers of many of the most powerful relics and talismans from their sunken realms, it is important to get that land and its role set right.
+
+[[Aldran Age Campaign Gamemaster's Notebook]]

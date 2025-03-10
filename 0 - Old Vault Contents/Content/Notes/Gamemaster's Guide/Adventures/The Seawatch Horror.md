@@ -1,0 +1,27 @@
+Question: should there be a boat and captain? The Gray Gull trading vessel as NPC “location” and a small group of potentially hireable NPC help?
+
+### Brigands
+
+If the group pursues the brigands before the following evening, they can raid the hill fort encampment. The brigand encounter should be nasty, brutish, and short. Since [Brigand Leader] is not especially bright, and is largely contemptuous of the soft Aldrans in the area, he only has one sentry posted, and his loot is poorly hidden. The hiding place is temporary, and things are clearly packed up for a haul to some other place (Seawatch). The half-orc brute, [half-orc name], may be a handful in a head-on fight, and certainly [Brigand Leader] is a competent scrapper, but a clever group should be able to take them down, particularly if they are able to get past the sentry and surprise the brigands in their camp.
+
+This group is incautious enough to have a decent campfire burning and food (mutton from a stolen sheep, and beer from an unfortunate farmer-brewer en route to Springhaven). They will not be particularly alert, and the resentful sentry should not be hard to either eliminate or bypass.
+
+If they delay in their pursuit, then the brigands will make another night raid and capture [Key Heir], probably burning his farm in the process. [Key Heir] will be brought back to the hill fort camp for the night, and then the brigands will head out the next day for their rendezvous at Old Port.
+
+PCs can learn some things from these brigands. If [Brigand Leader] survives, he might be persuaded to talk about his mistress and what he knows of her plans: she is setting up shop in [Old Keep], has a few henchman and some servants with her, is looking for a local who has some amulet that belonged to her father ([Brigand Leader] has a parchment with a drawing of the amulet key and a rough map of a nearby village with the [Key Heir]’s farm clearly marked), and wants to find some old magic box. [Brigand Leader] has orders to bring the key and/or [Key Heir] to Old Port soon, or to report there if he fails in his search.
+
+[Half-orc] knows only that they are searching for [Key Heir], but does not know why or specifically where. He might, if really squeezed, recall that [Brigand Leader] has a picture or map. The other thugs know next to nothing except that they are searching for someone (they have a 20% chance of knowing that their leader has a map) and that they are supposed to go to Old Port within a day or so.
+
+These clues will likely induce the PCs to either seek more information about the amulet from [Key Heir] or perhaps from [Green Hill Priest]. If they are thorough in their investigation and travel to Green Hill Keep, they may learn some about the box as well, and some of the background. They will also be given the key if [Green Hill Priest] decides to trust them. He will also provide them with holy water and similar things to help them.
+
+Even a moderately bright group might deduce that they should explore the situation in Old Port, particularly if they need to rescue [Key Heir]. It will not take [Sorceress] long to learn that [Key Heir] does not have the key in his possession. He passed it on to someone he trusted two nights before, to bring it to [Green Hill Priest] as soon as possible. It had glowed and “sang” when [Sorceress] first tried the door to the secret treasury, and he got frightened of it.
+
+If only one night has passed since [Key Heir] capture, it should be possible for PCs to rescue [Key Heir] at Old Port if they make an effort; he is no longer particularly valuable to [Sorceress], although she may kill him or use him as a hostage if she gets the opportunity. If the brigands have not been dealt with, and are present, they may fight the PCs, or retreat on their own overland to Seawatch. If PCs delayed or took the time to travel to Green Hill Keep to visit the priest, [Key Heir] will either be fed to the lacedons at Old Port (35% chance) or brought to Seawatch (65% chance) to be further interrogated.
+
+### Old Port
+
+Encounter with several zombies (in fragments of livery from Seawatch…), some lacedons, [Sorceress], her lieutenant (Human Fighter 4 in plate mail, with a +1 magic longsword of fairly old lineage and excellent quality, and, if he retrieves if from the boat, a steel shield), and a couple of men-at-arms (warrior NPCs in chainmail with long swords). If challenged, the living creatures will head for their hidden boat and retreat to sea, leaving the undead to cover their retreat. Although they are apparently heading for Seawatch, they are really just trying to get to their hidden mounts (and another two men-at-arms) a few miles south along the shore. From there, the Sorceress and her retinue will make their way back to [Old Keep].
+
+Old Port is a ruined port village. Very little is left from nearly a century of ruin. Only the foundation and some of the heavier timber structure remains of the old wharf boathouse and a granary and cistern. Houses and shops are nothing but foundations or heaps of rubble on the ground. There are signs that some large timbers and building stones have been removed by people for use elsewhere.
+
+The sorceress and her crew are in the old boathouse ruins, with one of the men-at-arms posted as a lookout. The undead are in or near the boat, which is secreted in the water below the boathouse and can be quickly boarded and rowed out into the harbor for an escape. The lacedons can rise from the water around the foundation.

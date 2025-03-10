@@ -1,0 +1,2 @@
+Halflings tend to dwell in meadows and fertile valleys, often along the banks of rivers, as well as on the shores of lakes and along the fringes of forests. Most halflings have long been subjects of [[Old Kingdom]], and may even have lived under the rule of the [[Rhudan]] before that.
+By royal decree, halflings are not vassals to any lord. However, as a rule halflings respect the laws and authority of their local lords, only occasionally bringing disputed issues to the attention of the throne.

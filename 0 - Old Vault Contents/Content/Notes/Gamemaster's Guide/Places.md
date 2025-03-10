@@ -1,0 +1,13 @@
+[[Realms]]
+
+[[Aronel]]
+[[Atulan]]
+[[Caer Tarancraig]]
+[[Cortan]]
+[[Cortannis]]
+[[Enyar]]
+[[Erusea]]
+[[Ghormhun Gar]]
+[[Parnos]]
+[[Penarth Taranu]]
+[[Riverthorn]]
