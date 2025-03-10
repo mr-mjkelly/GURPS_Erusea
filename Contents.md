@@ -1,0 +1,1 @@
+[[Gamemaster's Journal]]
