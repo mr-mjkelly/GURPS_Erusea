@@ -1,3 +1,8 @@
 {
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_inbox",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "_inbox",
+  "alwaysUpdateLinks": true
 }
